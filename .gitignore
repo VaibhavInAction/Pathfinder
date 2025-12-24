@@ -1,0 +1,22 @@
+# Executables
+*.exe
+*.out
+pathfinder
+
+# Object files
+*.o
+*.obj
+
+# Compiled files
+*.a
+*.lib
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated
+.DS_Store
+Thumbs.db

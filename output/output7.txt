@@ -1,0 +1,13 @@
+Initial Grid:
+S . . . . 
+# # # # . 
+. . . . . 
+. # # # # 
+E . . . . 
+
+Path found! Grid with path marked:
+S * * * * 
+# # # # * 
+* * * * * 
+* # # # # 
+E . . . . 
